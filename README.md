@@ -1,0 +1,1 @@
+This is a basic and easy to use design of a mobile-sign-up flow.It is made for user to easy excess the sign up process and sign-up or Login smoothly into the application. It has a very short login process so it will be done quickly
